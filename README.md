@@ -16,17 +16,11 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 💻 Tech Stack
 
-### Programming Languages
-C | C++ | Python
-
-### Web Development
-HTML | CSS | JavaScript
-
-### Tools
-Git | GitHub | VS Code
-
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,git,github,vscode" />
+</p>
 ---
 
 ## 📌 Featured Projects
