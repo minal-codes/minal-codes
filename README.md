@@ -59,3 +59,14 @@ GitHub: https://github.com/minal-codes
 
 LinkedIn: www.linkedin.com/in/
 minal-sharma-a27503377
+
+## 📊 Profile Overview
+
+![](https://komarev.com/ghpvc/?username=minal-codes&label=Profile%20Views&color=0e75b6&style=flat)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=minal-codes&layout=compact&theme=tokyonight)
+
+## 📈 Contribution Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=minal-codes&theme=github-dark)
+
