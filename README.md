@@ -49,19 +49,9 @@ Practice programs and mini projects in Python.
 
 ---
 
-## 📊 GitHub Goals 2026
+## 🏆 Coding Profile
 
-✅ Upload projects regularly
-
-✅ Maintain coding consistency
-
-✅ Build AI/ML projects
-
-✅ Contribute to open source
-
-✅ Gain internship experience
-
----
+🔸 LeetCode: https://leetcode.com/u/Minal_Sharma07/
 
 ## 📫 Connect With Me
 
