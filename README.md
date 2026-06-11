@@ -1,16 +1,77 @@
-## Hi there 👋
+# Hi 👋, I'm Minal Sharma
 
-<!--
-**minal-codes/minal-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Student in Computer Science Engineering (AI & ML)
 
-Here are some ideas to get you started:
+💡 Passionate about coding, problem-solving, and building practical projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🌱 Currently learning Data Structures & Algorithms
+- 💻 Exploring Web Development and Python
+- 🤖 Building foundations in Artificial Intelligence & Machine Learning
+- 📚 Improving problem-solving skills through coding practice
+- 🎯 Goal: Secure internships and become a skilled Software Engineer
+
+---
+
+## 🛠️ Tech Stack
+
+### Programming Languages
+C | C++ | Python
+
+### Web Development
+HTML | CSS | JavaScript
+
+### Tools
+Git | GitHub | VS Code
+
+---
+
+## 📌 Featured Projects
+
+### 🍔 Zomato Clone
+Responsive food delivery website using HTML and CSS.
+
+### ✈️ Travel Booking Form
+Modern travel enquiry form with clean UI.
+
+### 📚 DSA in C++
+Collection of Data Structures & Algorithms implementations.
+
+### 🐍 Python Programming
+Practice programs and mini projects in Python.
+
+---
+
+## 📖 Currently Learning
+
+- Data Structures & Algorithms
+- DBMS
+- Object Oriented Programming
+- Artificial Intelligence Fundamentals
+- Machine Learning Basics
+
+---
+
+## 📊 GitHub Goals 2026
+
+✅ Upload projects regularly
+
+✅ Maintain coding consistency
+
+✅ Build AI/ML projects
+
+✅ Contribute to open source
+
+✅ Gain internship experience
+
+---
+
+## 📫 Connect With Me
+
+GitHub: https://github.com/minal-codes
+
+LinkedIn: www.linkedin.com/in/
+minal-sharma-a27503377
