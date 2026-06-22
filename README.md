@@ -121,6 +121,8 @@ Developed real-time monitoring and alerting capabilities to improve network visi
 </td>
 <td width="50%" valign="top">
 
+---
+
 ## 📊 DSA & Problem Solving
 
 <div align="center">
