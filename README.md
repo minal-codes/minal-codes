@@ -74,139 +74,85 @@ Collaborating on AI, Machine Learning, and Software Development projects while c
 <tr>
 <td width="50%" valign="top">
 
-### 🔮 [Enterprise Learning Agents](https://github.com/ananyaSrivastavaa9/enterprise-learning-agents)
-**Microsoft Agents League Hackathon 2026 · Reasoning Agents Track**
+### 📈 ProfitGuardAI
 
-Grounded multi-agent LLM system generating personalized enterprise certification roadmaps with policy traceability.
+AI-Powered Financial Risk & Business Insights Platform
 
-- Built a 4-agent workflow where planning, auditing, scheduling, and presentation are handled by separate agents.
-- Added retrieval-based validation and citation display to keep outputs tied to source policy data.
-- Engineered fault isolation: API timeouts, bounded token budgets, retry logic, and session-safe caching across all pipeline stages
+Intelligent analytics platform designed to help users evaluate financial performance, identify potential risks, and make data-driven business decisions using AI-powered insights.
 
-`Python` `GPT-4o` `Azure Foundry` `GitHub Models` `Streamlit`
+Developed predictive workflows for analyzing financial trends, profitability indicators, and business performance metrics.
+Implemented automated risk assessment and recommendation generation to support informed decision-making.
+Built an interactive dashboard for visualizing financial health, forecasts, and key performance indicators.
+
+`Python` `Machine Learning` `Streamlit` `Data Analytics` `Pandas`
 
 </td>
 <td width="50%" valign="top">
 
-### 🛡️ [Silent Sentinel](https://github.com/ananyaSrivastavaa9/silent_sentinel)
-**Edge AI Passive Safety Platform**
+### 🚀 CareerForgeAI
 
-Passive background safety monitor that detects danger without user action and runs on-device.
+AI Career Development & Skill Roadmap Platform
 
-- Designed a **3-pillar concurrent processing architecture**: CNN acoustic stress analysis on spectrograms + LSTM fall/gait telemetry on IMU data + Dead Man's Switch FSM
-- Implemented **Pydantic V2 strict config validation**, a thread-safe Observer Pattern event bus, and structured JSON telemetry logging
-- Privacy-first edge deployment — all inference stays on-device with no cloud dependency
+Personalized career guidance platform that helps students and professionals discover career paths, identify skill gaps, and generate actionable learning roadmaps. Inspired by the growing need for accessible career mentorship and AI-assisted planning.
 
-`Python` `TensorFlow` `CNN` `LSTM` `Pydantic` `Streamlit`
+Designed AI-driven workflows for career assessment, skill analysis, and personalized roadmap generation.
+Integrated resume-focused recommendations and career planning features to help users align learning with industry demands.
+Built a scalable architecture focused on accessibility, user guidance, and continuous skill development.
+
+`Python` `AI Career Guidance` `Streamlit` `Machine Learning`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🌐 [AI Translator Pro](https://github.com/ananyaSrivastavaa9/Translator-Pro) · [Live Demo ↗](https://ananyasrivastavaa9.github.io/Translator-Pro/)
-**Real-Time Multi-Modal Translation Dashboard**
+### 🛡️ Smart Network IDS
 
-Translation dashboard with voice, OCR, and typed input across 14 languages in-browser.
+Machine Learning-Based Intrusion Detection System
 
-- Orchestrated **3 async third-party APIs** — Azure Translator, Web Speech API (voice-to-text), Tesseract.js (OCR) — into a unified multi-modal ingestion pipeline
-- Built a **localStorage caching layer** for translation history, reducing redundant API calls
-- Auto language detection, language swap, TTS output, and floating assistant UI
+Security-focused network monitoring system that detects suspicious traffic patterns and potential cyber threats using machine learning techniques.
 
-`HTML` `CSS` `JavaScript` `Azure Translator API` `Web Speech API` `Tesseract.js`
+Built anomaly detection workflows to identify malicious network behavior and unauthorized activities.
+Applied machine learning models for traffic classification and threat prediction.
+Developed real-time monitoring and alerting capabilities to improve network visibility and security response.
 
-</td>
-<td width="50%" valign="top">
-
-### 📄 [SmartDoc AI](https://github.com/ananyaSrivastavaa9/SmartDoc-AI) · [Live Demo ↗](https://ananyasrivastavaa9.github.io/SmartDoc-AI/)
-**Cloud Document Intelligence Dashboard**
-
-Upload PDFs or images to get structured extraction, AI summary, and natural language queries.
-
-- Integrated **Azure Document Intelligence REST API** to parse and map token-level structured data from PDFs and images in real time
-- Developed multi-stage analytics pipeline: automated AI summarization + natural language query interface on arbitrary document schemas
-
-`HTML` `CSS` `JavaScript` `Azure Document Intelligence`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🔒 [Mini Intrusion Detection System](https://github.com/ananyaSrivastavaa9/Mini-IDS)
-**Real-Time Network Threat Monitor**
-
-Detects brute force attacks and suspicious traffic from raw Python socket monitoring.
-
-- Built a **low-level raw socket packet sniffer** monitoring live network traffic for brute force signatures and suspicious IP behavioral patterns
-- Stateful IP behavioral analysis with real-time alert generation and persistent structured log storage
-
-`Python` `Network Sockets` `Packet Sniffing`
+`Python` `Cybersecurity` `Machine Learning` `Network Security IDS`
 
 </td>
 <td width="50%" valign="top">
-
-### ⚠️ [Vulnerable Web App — Security Lab](https://github.com/ananyaSrivastavaa9/Vulnerable_Web_App_demo)
-**Cybersecurity Education Tool**
-
-Deliberately insecure app built to study and demonstrate real-world attack vectors.
-
-- Demonstrates **5 vulnerability classes**: SQL Injection, Stored XSS, Broken Access Control, plaintext credential storage, and server misconfiguration
-- Each exploit documented with annotated screenshots and attack walkthroughs · MIT Licensed
-
-`HTML` `CSS` `JavaScript` `PHP`
-
-</td>
-</tr>
-</table>
-
----
 
 ## 📊 DSA & Problem Solving
 
 <div align="center">
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/ananyasrivastavaa?theme=dark&font=Fira%20Code&ext=contest)](https://leetcode.com/u/ananyasrivastavaa/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Minal_Sharma07?theme=dark&font=Fira%20Code)](https://leetcode.com/u/Minal_Sharma07/)
 
 </div>
-
-- Solving problems regularly in **C++** — arrays, strings, recursion, linked lists, trees, sorting  
-- Practice repos: [DSA-Cpp](https://github.com/ananyaSrivastavaa9/DSA-Cpp) · [Python-Practice](https://github.com/ananyaSrivastavaa9/Python-Practice) · [C-Programming](https://github.com/ananyaSrivastavaa9/C-Programming)  
-- Current focus: **Two Pointers · Sliding Window · Recursion**
-
----
 
 ## 📈 GitHub Analytics
 
-<div align="center">
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=minal-codes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minal-codes&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=ananyaSrivastavaa9&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="170" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=minal-codes&theme=tokyonight&hide_border=true"/>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananyaSrivastavaa9&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" />
-
-</div>
-
-<div align="center">
-
-💻 **500+ Contributions • Active Open Source & Project Development**
-
-</div>
-
----
 
 ## 🏅 Certifications
 
 - **Azure Fundamentals (AZ-900)** — Microsoft  
-- **Threat Landscape 3.0** — Fortinet  
-- **Enterprise Design Thinking Practitioner** — IBM SkillsBuild  
-- **Generative AI Studio** — Google Cloud / Simplilearn  
+- **Microsoft Azure AI Fundamentals (AI-900)** — Microsoft
+- **Enterprise Design Thinking Practitioner** — IBM SkillsBuild   
 - **Professional Networking & Critical Thinking** — HP LIFE  
 
 ---
 
-## 💬 Open to Opportunities
+## 💼 Open to Internships & Collaborations
 
-Actively seeking Software Engineering and AI/ML internship opportunities where I can contribute, learn from experienced engineers, and build impactful products.
+Passionate about transforming ideas into intelligent solutions through AI, software engineering, and continuous learning. Currently seeking Software Engineering and AI/ML internship opportunities to contribute, learn, and grow through real-world engineering experiences.
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ananyasrivastavaa8)
 [![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ananyasrivastavaa9@gmail.com)
