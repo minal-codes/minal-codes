@@ -108,6 +108,21 @@ Built a scalable architecture focused on accessibility, user guidance, and conti
 
 ---
 
+🛡️ Smart Network IDS
+
+Machine Learning-Based Intrusion Detection System
+
+Security-focused network monitoring system that detects suspicious traffic and potential cyber threats using machine learning.
+
+Built anomaly detection workflows to identify malicious network behavior.
+Applied ML models for traffic classification and threat prediction.
+Developed monitoring and alerting capabilities to improve network visibility.
+
+Python Cybersecurity Machine Learning Network Security
+
+</td>
+<td width="50%" valign="top">
+
 ## 📊 DSA & Problem Solving
 
 <div align="center">
