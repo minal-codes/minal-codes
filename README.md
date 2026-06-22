@@ -123,6 +123,13 @@ Python Cybersecurity Machine Learning Network Security
 </td>
 <td width="50%" valign="top">
 
+</td>
+</tr>
+</table>
+
+---
+
+
 ## 📊 DSA & Problem Solving
 
 <div align="center">
