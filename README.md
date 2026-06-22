@@ -1,108 +1,212 @@
-# Hi, I'm Minal Sharma 👋
+<div align="center">
 
-### AI & ML Student • Building Intelligent Systems, AI Applications & Security Projects
+# Minal Sharma
 
-🎓 **B.Tech CSE (AI & ML)** @ Chandigarh University (2025–2029)
+### AI & ML Student • Building intelligent systems, AI powered projects, and Secure software systems
 
-🚀 Passionate about Artificial Intelligence, Machine Learning, Full-Stack Development, and Cybersecurity.
+<p><strong>B.Tech CSE (AI & ML) @ Chandigarh University (2025–2029)</strong></p>
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/minal-sharma-a27503377)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Minal_Sharma07/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/minal-codes)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:minalhzb@gmail.com)
 
-## 💡 About Me
-
-I am a first-year Computer Science student focused on building practical AI-powered applications and continuously improving my software engineering skills.
-
-Currently exploring:
-
-* Artificial Intelligence & Machine Learning
-* Agentic AI Systems
-* Full-Stack Development
-* Cybersecurity Fundamentals
-* Data Structures & Algorithms
-
-My goal is to build impactful products that solve real-world problems while growing into a strong AI Engineer and Software Developer.
+</div>
 
 ---
 
-## 🚀 Current Focus
+## 🧠 About Me
 
-* Building AI-powered applications
-* Learning Machine Learning fundamentals
-* Practicing DSA regularly
-* Contributing to open-source projects
-* Exploring cloud technologies and deployment
+| About Me | |
+| :--- | :--- |
+| **Currently Building** | AI-powered applications, ML projects, and real-world software solutions |
+| **Education** | **B.Tech CSE (AI & ML)** · Chandigarh University *(2025–2029)* |
+| **Learning** | Data Structures & Algorithms, Machine Learning, Agentic AI, and Software Development |
+| **Interests** | Artificial Intelligence, Full-Stack Development, Cybersecurity, and Cloud Technologies |
+| **Projects** | Building hands-on projects to strengthen problem-solving and development skills |
+| **Exploring** | Multi-Agent Systems, AI Automation, and Emerging Technologies |
+| **Goal** | Growing into an AI Engineer who builds impactful and scalable products |
 
----
+## 💼 Open To
+
+Collaborating on AI, Machine Learning, and Software Development projects while continuously learning and building practical solutions.
+
+### 🛠️ Tech Stack & Interests
+
+* **Areas of Interest:** Artificial Intelligence · Machine Learning · Software Development · Cybersecurity
+* **Languages:** Python · C++ · C · JavaScript · HTML · CSS
+* **Tools:** Git · GitHub · VS Code
+* **Currently Learning:** DSA · Agentic AI · Cloud Fundamentals
 
 ## 🛠️ Tech Stack
 
-### Languages
+<div align="center">
 
-Python • C++ • C • JavaScript • HTML • CSS
+**Languages**
 
-### AI / ML
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-Python • Machine Learning • TensorFlow • Scikit-Learn • OpenAI APIs
+**AI · ML · Cloud**
 
-### Development
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-Git • GitHub • VS Code • Streamlit
+**Tools & Platforms**
 
-### Learning
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white)
 
-Cloud Computing • Cybersecurity • System Design
-
----
-
-## 📌 Featured Projects
-
-### 🌌 STELLIFORM
-
-Galaxy Classification Web Application using Machine Learning.
-
-### 🤖 AI Applications
-
-Projects focused on intelligent automation, AI workflows, and practical machine learning.
-
-### 🔐 Cybersecurity Projects
-
-Hands-on security-focused projects for learning ethical hacking and secure development concepts.
+</div>
 
 ---
 
-## 📈 Learning Journey
+## 🚀 Featured Projects
 
-* Solving DSA problems regularly
-* Building projects consistently
-* Exploring AI engineering workflows
-* Participating in hackathons and technical communities
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔮 [Enterprise Learning Agents](https://github.com/ananyaSrivastavaa9/enterprise-learning-agents)
+**Microsoft Agents League Hackathon 2026 · Reasoning Agents Track**
+
+Grounded multi-agent LLM system generating personalized enterprise certification roadmaps with policy traceability.
+
+- Built a 4-agent workflow where planning, auditing, scheduling, and presentation are handled by separate agents.
+- Added retrieval-based validation and citation display to keep outputs tied to source policy data.
+- Engineered fault isolation: API timeouts, bounded token budgets, retry logic, and session-safe caching across all pipeline stages
+
+`Python` `GPT-4o` `Azure Foundry` `GitHub Models` `Streamlit`
+
+</td>
+<td width="50%" valign="top">
+
+### 🛡️ [Silent Sentinel](https://github.com/ananyaSrivastavaa9/silent_sentinel)
+**Edge AI Passive Safety Platform**
+
+Passive background safety monitor that detects danger without user action and runs on-device.
+
+- Designed a **3-pillar concurrent processing architecture**: CNN acoustic stress analysis on spectrograms + LSTM fall/gait telemetry on IMU data + Dead Man's Switch FSM
+- Implemented **Pydantic V2 strict config validation**, a thread-safe Observer Pattern event bus, and structured JSON telemetry logging
+- Privacy-first edge deployment — all inference stays on-device with no cloud dependency
+
+`Python` `TensorFlow` `CNN` `LSTM` `Pydantic` `Streamlit`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 [AI Translator Pro](https://github.com/ananyaSrivastavaa9/Translator-Pro) · [Live Demo ↗](https://ananyasrivastavaa9.github.io/Translator-Pro/)
+**Real-Time Multi-Modal Translation Dashboard**
+
+Translation dashboard with voice, OCR, and typed input across 14 languages in-browser.
+
+- Orchestrated **3 async third-party APIs** — Azure Translator, Web Speech API (voice-to-text), Tesseract.js (OCR) — into a unified multi-modal ingestion pipeline
+- Built a **localStorage caching layer** for translation history, reducing redundant API calls
+- Auto language detection, language swap, TTS output, and floating assistant UI
+
+`HTML` `CSS` `JavaScript` `Azure Translator API` `Web Speech API` `Tesseract.js`
+
+</td>
+<td width="50%" valign="top">
+
+### 📄 [SmartDoc AI](https://github.com/ananyaSrivastavaa9/SmartDoc-AI) · [Live Demo ↗](https://ananyasrivastavaa9.github.io/SmartDoc-AI/)
+**Cloud Document Intelligence Dashboard**
+
+Upload PDFs or images to get structured extraction, AI summary, and natural language queries.
+
+- Integrated **Azure Document Intelligence REST API** to parse and map token-level structured data from PDFs and images in real time
+- Developed multi-stage analytics pipeline: automated AI summarization + natural language query interface on arbitrary document schemas
+
+`HTML` `CSS` `JavaScript` `Azure Document Intelligence`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔒 [Mini Intrusion Detection System](https://github.com/ananyaSrivastavaa9/Mini-IDS)
+**Real-Time Network Threat Monitor**
+
+Detects brute force attacks and suspicious traffic from raw Python socket monitoring.
+
+- Built a **low-level raw socket packet sniffer** monitoring live network traffic for brute force signatures and suspicious IP behavioral patterns
+- Stateful IP behavioral analysis with real-time alert generation and persistent structured log storage
+
+`Python` `Network Sockets` `Packet Sniffing`
+
+</td>
+<td width="50%" valign="top">
+
+### ⚠️ [Vulnerable Web App — Security Lab](https://github.com/ananyaSrivastavaa9/Vulnerable_Web_App_demo)
+**Cybersecurity Education Tool**
+
+Deliberately insecure app built to study and demonstrate real-world attack vectors.
+
+- Demonstrates **5 vulnerability classes**: SQL Injection, Stored XSS, Broken Access Control, plaintext credential storage, and server misconfiguration
+- Each exploit documented with annotated screenshots and attack walkthroughs · MIT Licensed
+
+`HTML` `CSS` `JavaScript` `PHP`
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🏆 Achievements & Certifications
+## 📊 DSA & Problem Solving
 
-* Microsoft Learn AI & Data Learning Paths
-* AI & ML Workshops
-* Cybersecurity Learning Programs
-* Continuous Project Building & Technical Community Participation
+<div align="center">
 
----
+[![LeetCode Stats](https://leetcard.jacoblin.cool/ananyasrivastavaa?theme=dark&font=Fira%20Code&ext=contest)](https://leetcode.com/u/ananyasrivastavaa/)
 
-## 🌐 Connect With Me
+</div>
 
-📧 Email: [minalhzb@gmail.com](mailto:minalhzb@gmail.com)
-
-💼 LinkedIn:
-[www.linkedin.com/in/minal-sharma-a27503377](http://www.linkedin.com/in/minal-sharma-a27503377)
-
-💻 GitHub:
-github.com/minal-codes
-
-🧩 LeetCode:
-leetcode.com/u/Minal_Sharma07/
+- Solving problems regularly in **C++** — arrays, strings, recursion, linked lists, trees, sorting  
+- Practice repos: [DSA-Cpp](https://github.com/ananyaSrivastavaa9/DSA-Cpp) · [Python-Practice](https://github.com/ananyaSrivastavaa9/Python-Practice) · [C-Programming](https://github.com/ananyaSrivastavaa9/C-Programming)  
+- Current focus: **Two Pointers · Sliding Window · Recursion**
 
 ---
 
-### ✨ Quote
+## 📈 GitHub Analytics
 
-"Learning in public, building consistently, and growing one project at a time."
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ananyaSrivastavaa9&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="170" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananyaSrivastavaa9&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" />
+
+</div>
+
+<div align="center">
+
+💻 **500+ Contributions • Active Open Source & Project Development**
+
+</div>
+
+---
+
+## 🏅 Certifications
+
+- **Azure Fundamentals (AZ-900)** — Microsoft  
+- **Threat Landscape 3.0** — Fortinet  
+- **Enterprise Design Thinking Practitioner** — IBM SkillsBuild  
+- **Generative AI Studio** — Google Cloud / Simplilearn  
+- **Professional Networking & Critical Thinking** — HP LIFE  
+
+---
+
+## 💬 Open to Opportunities
+
+Actively seeking Software Engineering and AI/ML internship opportunities where I can contribute, learn from experienced engineers, and build impactful products.
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ananyasrivastavaa8)
+[![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ananyasrivastavaa9@gmail.com)
