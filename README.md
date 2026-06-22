@@ -106,7 +106,8 @@ Built a scalable architecture focused on accessibility, user guidance, and conti
 <tr>
 <td width="50%" valign="top">
 
-🛡️ Smart Network IDS
+
+**🛡️ Smart Network IDS**
 
 Machine Learning-Based Intrusion Detection System
 
