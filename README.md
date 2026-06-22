@@ -118,9 +118,6 @@ Developed real-time monitoring and alerting capabilities to improve network visi
 
 `Python` `Cybersecurity` `Machine Learning` `Network Security IDS`
 
-</td>
-<td width="50%" valign="top">
-
 ---
 
 ## 📊 DSA & Problem Solving
