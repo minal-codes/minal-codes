@@ -148,6 +148,13 @@ Python Cybersecurity Machine Learning Network Security
   <img src="https://github-readme-streak-stats.herokuapp.com?user=minal-codes&theme=tokyonight&hide_border=true"/>
 </p>
 
+## 📈 Contribution Graph
+
+<div align="center">
+
+[![Minal Sharma's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=minal-codes&theme=tokyo-night&hide_border=true)](https://github.com/minal-codes)
+
+</div>
 
 ## 🏅 Certifications
 
