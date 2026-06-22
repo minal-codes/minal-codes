@@ -1,72 +1,108 @@
-# Hi 👋, I'm Minal Sharma
+# Hi, I'm Minal Sharma 👋
 
-🎓 B.Tech Student in Computer Science Engineering (AI & ML)
+### AI & ML Student • Building Intelligent Systems, AI Applications & Security Projects
 
-💡 Passionate about coding, problem-solving, and building practical projects.
+🎓 **B.Tech CSE (AI & ML)** @ Chandigarh University (2025–2029)
 
----
-
-## 🚀 About Me
-
-- 🌱 Currently learning Data Structures & Algorithms
-- 💻 Exploring Web Development and Python
-- 🤖 Building foundations in Artificial Intelligence & Machine Learning
-- 📚 Improving problem-solving skills through coding practice
-- 🎯 Goal: Secure internships and become a skilled Software Engineer
+🚀 Passionate about Artificial Intelligence, Machine Learning, Full-Stack Development, and Cybersecurity.
 
 ---
 
-## 💻 Tech Stack
+## 💡 About Me
 
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,git,github,vscode" />
-</p>
+I am a first-year Computer Science student focused on building practical AI-powered applications and continuously improving my software engineering skills.
+
+Currently exploring:
+
+* Artificial Intelligence & Machine Learning
+* Agentic AI Systems
+* Full-Stack Development
+* Cybersecurity Fundamentals
+* Data Structures & Algorithms
+
+My goal is to build impactful products that solve real-world problems while growing into a strong AI Engineer and Software Developer.
+
+---
+
+## 🚀 Current Focus
+
+* Building AI-powered applications
+* Learning Machine Learning fundamentals
+* Practicing DSA regularly
+* Contributing to open-source projects
+* Exploring cloud technologies and deployment
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+Python • C++ • C • JavaScript • HTML • CSS
+
+### AI / ML
+
+Python • Machine Learning • TensorFlow • Scikit-Learn • OpenAI APIs
+
+### Development
+
+Git • GitHub • VS Code • Streamlit
+
+### Learning
+
+Cloud Computing • Cybersecurity • System Design
+
 ---
 
 ## 📌 Featured Projects
 
-### 🍔 Zomato Clone
-Responsive food delivery website using HTML and CSS.
+### 🌌 STELLIFORM
 
-### ✈️ Travel Booking Form
-Modern travel enquiry form with clean UI.
+Galaxy Classification Web Application using Machine Learning.
 
-### 📚 DSA in C++
-Collection of Data Structures & Algorithms implementations.
+### 🤖 AI Applications
 
-### 🐍 Python Programming
-Practice programs and mini projects in Python.
+Projects focused on intelligent automation, AI workflows, and practical machine learning.
 
----
+### 🔐 Cybersecurity Projects
 
-## 📖 Currently Learning
-
-- Data Structures & Algorithms
-- DBMS
-- Object Oriented Programming
-- Artificial Intelligence Fundamentals
-- Machine Learning Basics
+Hands-on security-focused projects for learning ethical hacking and secure development concepts.
 
 ---
 
-## 🏆 Coding Profile
+## 📈 Learning Journey
 
-🔸 LeetCode: https://leetcode.com/u/Minal_Sharma07/
+* Solving DSA problems regularly
+* Building projects consistently
+* Exploring AI engineering workflows
+* Participating in hackathons and technical communities
 
-## 📫 Connect With Me
+---
 
-GitHub: https://github.com/minal-codes
+## 🏆 Achievements & Certifications
 
-LinkedIn: www.linkedin.com/in/
-minal-sharma-a27503377
+* Microsoft Learn AI & Data Learning Paths
+* AI & ML Workshops
+* Cybersecurity Learning Programs
+* Continuous Project Building & Technical Community Participation
 
-## 📊 Profile Overview
+---
 
-![](https://komarev.com/ghpvc/?username=minal-codes&label=Profile%20Views&color=0e75b6&style=flat)
+## 🌐 Connect With Me
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=minal-codes&layout=compact&theme=tokyonight)
+📧 Email: [minalhzb@gmail.com](mailto:minalhzb@gmail.com)
 
-## 📈 Contribution Graph
+💼 LinkedIn:
+[www.linkedin.com/in/minal-sharma-a27503377](http://www.linkedin.com/in/minal-sharma-a27503377)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=minal-codes&theme=github-dark)
+💻 GitHub:
+github.com/minal-codes
 
+🧩 LeetCode:
+leetcode.com/u/Minal_Sharma07/
+
+---
+
+### ✨ Quote
+
+"Learning in public, building consistently, and growing one project at a time."
