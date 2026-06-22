@@ -117,7 +117,7 @@ Built anomaly detection workflows to identify malicious network behavior.
 Applied ML models for traffic classification and threat prediction.
 Developed monitoring and alerting capabilities to improve network visibility.
 
-Python Cybersecurity Machine Learning Network Security
+`Python` `Cybersecurity` `Machine Learning` `Network Security`
 
 </td>
 <td width="50%" valign="top">
