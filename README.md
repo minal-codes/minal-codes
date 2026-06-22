@@ -169,5 +169,5 @@ Developed monitoring and alerting capabilities to improve network visibility.
 
 Passionate about transforming ideas into intelligent solutions through AI, software engineering, and continuous learning. Currently seeking Software Engineering and AI/ML internship opportunities to contribute, learn, and grow through real-world engineering experiences.
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ananyasrivastavaa8)
-[![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ananyasrivastavaa9@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/minal-sharma-a27503377)
+[![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:minalhzb@gmail.com)
