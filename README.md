@@ -25,7 +25,8 @@
 | **Interests** | Artificial Intelligence, Full-Stack Development, Cybersecurity, and Cloud Technologies |
 | **Projects** | Building hands-on projects to strengthen problem-solving and development skills |
 | **Exploring** | Multi-Agent Systems, AI Automation, and Emerging Technologies |
-| **Goal** | Growing into an AI Engineer who builds impactful and scalable products |
+| **Goal** | On the journey to becoming an AI Engineer, building scalable AI-powered products that drive innovation and solve meaningful challenges.
+ |
 
 ## 💼 Open To
 
