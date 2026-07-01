@@ -107,6 +107,21 @@ Built a scalable architecture focused on accessibility, user guidance, and conti
 <td width="50%" valign="top">
 
 
+### 👻 Invisibility Cloak
+
+**Real-Time Computer Vision System**
+
+Interactive computer vision application that recreates an invisibility effect using AI-powered human segmentation, dynamic background modeling, and gesture-based interaction.
+
+Developed a modular vision pipeline integrating real-time segmentation, background reconstruction, and hand tracking.
+Implemented gesture-controlled visibility transitions for an intuitive user experience.
+Optimized live frame processing to deliver smooth rendering and responsive performance.
+
+`Python` `OpenCV` `Computer Vision` `MediaPipe` `NumPy`
+
+</td>
+</tr>
+
 ### 🛡️ Smart Network IDS
 
 Machine Learning-Based Intrusion Detection System
