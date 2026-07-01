@@ -72,77 +72,80 @@ Collaborating on AI, Machine Learning, and Software Development projects while c
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
 ### 📈 ProfitGuardAI
 
-AI-Powered Financial Risk & Business Insights Platform
+**AI-Powered Financial Risk & Business Insights Platform**
 
-Intelligent analytics platform designed to help users evaluate financial performance, identify potential risks, and make data-driven business decisions using AI-powered insights.
+Intelligent analytics platform that empowers businesses to evaluate financial performance, identify potential risks, and make informed decisions through AI-driven insights.
 
-Developed predictive workflows for analyzing financial trends, profitability indicators, and business performance metrics.
-Implemented automated risk assessment and recommendation generation to support informed decision-making.
-Built an interactive dashboard for visualizing financial health, forecasts, and key performance indicators.
+Developed predictive workflows for financial trend analysis and profitability forecasting.
+Implemented automated risk assessment and recommendation generation.
+Designed an interactive dashboard to visualize financial health, KPIs, and business forecasts.
 
 `Python` `Machine Learning` `Streamlit` `Data Analytics` `Pandas`
 
 </td>
+
 <td width="50%" valign="top">
 
 ### 🚀 CareerForgeAI
 
-AI Career Development & Skill Roadmap Platform
+**AI Career Development & Skill Roadmap Platform**
 
-Personalized career guidance platform that helps students and professionals discover career paths, identify skill gaps, and generate actionable learning roadmaps. Inspired by the growing need for accessible career mentorship and AI-assisted planning.
+Personalized AI platform that helps students and professionals discover career paths, identify skill gaps, and build structured learning roadmaps.
 
-Designed AI-driven workflows for career assessment, skill analysis, and personalized roadmap generation.
-Integrated resume-focused recommendations and career planning features to help users align learning with industry demands.
-Built a scalable architecture focused on accessibility, user guidance, and continuous skill development.
+Designed AI-driven workflows for career assessment and personalized recommendations.
+Integrated resume analysis with career planning features.
+Built a scalable architecture focused on accessibility and continuous skill development.
 
 `Python` `AI Career Guidance` `Streamlit` `Machine Learning`
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
 
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
 
 ### 👻 Invisibility Cloak
 
 **Real-Time Computer Vision System**
 
-Interactive computer vision application that recreates an invisibility effect using AI-powered human segmentation, dynamic background modeling, and gesture-based interaction.
+Interactive computer vision application that recreates an invisibility effect using AI-powered human segmentation, dynamic background modeling, and gesture recognition.
 
-Developed a modular vision pipeline integrating real-time segmentation, background reconstruction, and hand tracking.
+Developed a modular vision pipeline integrating segmentation, background reconstruction, and hand tracking.
 Implemented gesture-controlled visibility transitions for an intuitive user experience.
-Optimized live frame processing to deliver smooth rendering and responsive performance.
+Optimized real-time frame processing for smooth and responsive visual rendering.
 
 `Python` `OpenCV` `Computer Vision` `MediaPipe` `NumPy`
 
 </td>
-</tr>
+
+<td width="50%" valign="top">
 
 ### 🛡️ Smart Network IDS
 
-Machine Learning-Based Intrusion Detection System
+**Machine Learning-Based Intrusion Detection System**
 
-Security-focused network monitoring system that detects suspicious traffic and potential cyber threats using machine learning.
+Security-focused network monitoring solution designed to detect suspicious traffic and potential cyber threats using machine learning techniques.
 
-Built anomaly detection workflows to identify malicious network behavior.
+Developed anomaly detection workflows for identifying malicious network behavior.
 Applied ML models for traffic classification and threat prediction.
-Developed monitoring and alerting capabilities to improve network visibility.
+Implemented monitoring and alerting capabilities to improve network visibility.
 
 `Python` `Cybersecurity` `Machine Learning` `Network Security`
 
 </td>
-<td width="50%" valign="top">
 
-</td>
 </tr>
+
 </table>
 
 ---
-
 
 ## 📊 DSA & Problem Solving
 
