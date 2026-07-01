@@ -75,7 +75,7 @@ Collaborating on AI, Machine Learning, and Software Development projects while c
 
 <td width="50%" valign="top">
 
-### 📈 ProfitGuardAI
+### 📈 [ProfitGuardAI](https://github.com/minal-codes/ProfitGuardAI)
 
 **AI-Powered Financial Risk & Business Insights Platform**
 
@@ -91,7 +91,7 @@ Designed an interactive dashboard to visualize financial health, KPIs, and busin
 
 <td width="50%" valign="top">
 
-### 🚀 CareerForgeAI
+### 🚀 [CareerForgeAI](https://github.com/minal-codes/CareerForgeAI)
 
 **AI Career Development & Skill Roadmap Platform**
 
@@ -111,7 +111,7 @@ Built a scalable architecture focused on accessibility and continuous skill deve
 
 <td width="50%" valign="top">
 
-### 👻 Invisibility Cloak
+### 👻 [Invisibility Cloak](https://github.com/minal-codes/Invisibility-Cloak)
 
 **Real-Time Computer Vision System**
 
@@ -127,7 +127,7 @@ Optimized real-time frame processing for smooth and responsive visual rendering.
 
 <td width="50%" valign="top">
 
-### 🛡️ Smart Network IDS
+### 🛡️ [Smart Network IDS](https://github.com/minal-codes/Smart-Network-IDS)
 
 **Machine Learning-Based Intrusion Detection System**
 
